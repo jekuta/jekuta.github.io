@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ruby constant lookup"
-date:   2015-16-12 21:02:58 +0100
+date:   2015-12-16 21:02:58 +0100
 categories: ruby
 ---
 
