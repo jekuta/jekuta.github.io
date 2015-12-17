@@ -45,7 +45,7 @@ git log file
 git blame file
 git show a1b2c3d4 file # Show file at specific commit
 git show a1b2c3d4^ file # Show file with the commit as a parent
-{% highlight ruby %}
+{% endhighlight %}
 
 - <a href="https://github.com/rails/rails/tree/master/guides/bug_report_templates">Bug templates</a>
 
