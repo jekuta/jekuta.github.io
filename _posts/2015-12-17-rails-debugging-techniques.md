@@ -2,7 +2,7 @@
 layout: post
 title:  "Hints on how to debug Rails"
 date:   2015-12-17 21:02:58 +0100
-categories: ruby rails
+categories: ruby, rails
 ---
 ## Hints on how to debug Rails
 
