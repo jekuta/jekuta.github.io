@@ -4,8 +4,6 @@ title:  "Hints on how to debug Rails"
 date:   2015-12-17 21:02:58 +0100
 categories: ruby, rails
 ---
-## Hints on how to debug Rails
-
 This a short summary of the techniques presented in a RailsConf talk by Godfrey Chan.
 
 - Find documentation on <a href="http://api.rubyonrails.org">http://api.rubyonrails.org</a><br>
